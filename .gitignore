@@ -1,0 +1,23 @@
+# Ignore semua file yang tidak perlu
+**/vendor/
+**/node_modules/
+**/.env
+**/.env.*
+**/build/
+**/storage/
+**/logs/
+**/*.log
+**/*.sqlite
+**/.DS_Store
+**/.idea/
+**/.vscode/
+**/*.iml
+**/pubspec.lock
+**/composer.lock
+**/android/.gradle/
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Generated.xcconfig
+**/android/local.properties
+**/.dart_tool/
+**/.pub/
