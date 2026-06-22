@@ -8,9 +8,4 @@ Aplikasi monitoring dan booking parkir dengan backend Laravel dan frontend Flutt
 - Frontend: Flutter (Web)
 - Database: MySQL
 
-## Cara Menjalankan
-
-### Backend
-1. Masuk ke folder backend:
-   ```bash
-   cd backend
+## Struktur Folder
